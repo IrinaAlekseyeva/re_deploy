@@ -27,11 +27,11 @@
     "jsonwebtoken": "^9.0.2",
     "morgan": "^1.10.0",
     "per-env": "^1.0.2",
-    "sequelize": "^6.37.5",
-    "sequelize-cli": "^6.6.2"
+    "sequelize": "^6.37.5"
   },
   "devDependencies": {
     "dotenv-cli": "^7.4.4",
+    "sequelize-cli": "^6.6.2",
     "sqlite3": "^5.1.7"
   }
 }
